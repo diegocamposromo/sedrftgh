@@ -1,1 +1,1 @@
-# sedrftgh
+# Plantilla del proyecto 26
